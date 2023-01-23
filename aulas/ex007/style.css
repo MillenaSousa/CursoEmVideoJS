@@ -1,0 +1,16 @@
+body{
+    font: 1em sans-serif;
+}
+
+input {
+    font: 1em sans-serif;
+    width: 100px;
+}
+button {
+    background-color: #868282;
+    color: aliceblue; 
+}
+
+#res {
+   margin-top: 20px;
+}

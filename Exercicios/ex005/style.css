@@ -1,0 +1,39 @@
+body {
+    background-color: #00000025;
+    font: normal Arial;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+    font: normal 15pt Arial;
+}
+
+section {
+    background-color: #abddff;
+    border-radius: 10px;
+    padding: 15px;
+    height: 350px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px #0000005b;
+}
+
+section #flista {
+    font: normal 10pt Arial;
+    width: 150px;
+}
+
+#numero {
+    font-size: 15pt;
+    background-color: #fffffffb;
+    border-radius: 4px;
+    width: 150px;
+}
+
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-size: italic;
+}
